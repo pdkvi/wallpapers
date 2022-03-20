@@ -5,3 +5,4 @@
 * wallpaper2 (cropped to 16:9) - https://wallhaven.cc/w/d51zgl
 * wallpaper3 - https://wallhaven.cc/w/dgo9gg
 * wallpaper4 - https://wallhaven.cc/w/yjr71g
+* wallpaper5 - https://wallhaven.cc/w/r28md1 (cropped to 16:9)
