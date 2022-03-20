@@ -1,8 +1,8 @@
 ## wallpapers links:
 
-* wallpaper0 (cropped to 16:9) - https://wallhaven.cc/w/k9kzq1
+* wallpaper0 - https://wallhaven.cc/w/k9kzq1 (cropped to 16:9)
 * wallpaper1 - https://wallhaven.cc/w/w8j59p
-* wallpaper2 (cropped to 16:9) - https://wallhaven.cc/w/d51zgl
+* wallpaper2 - https://wallhaven.cc/w/d51zgl (cropped to 16:9)
 * wallpaper3 - https://wallhaven.cc/w/dgo9gg
 * wallpaper4 - https://wallhaven.cc/w/yjr71g
 * wallpaper5 - https://wallhaven.cc/w/r28md1 (cropped to 16:9)
