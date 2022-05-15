@@ -19,3 +19,4 @@
 * wallpaper16 - https://wallhaven.cc/w/mdvowm (cropped to 16:9)
 * wallpaper17 - https://wallhaven.cc/w/dgppwl (cropped to 16:9)
 * wallpaper18 - https://wallhaven.cc/w/oxlx9l (cropped to 16:9)
+* wallpaper19 - https://wallhaven.cc/w/p8yqw3 (cropped to 16:9)
